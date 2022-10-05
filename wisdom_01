@@ -1,0 +1,2 @@
+funtion arr(n) = []
+   console.log(arr(n))
